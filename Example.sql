@@ -4,7 +4,7 @@ SELECT title, author, price, amount,
 FROM shop;
 /* Вывел всю информацию о книгах, а также для каждой позиции посчитал ее стоимость (произведение цены на количество).
  Вычисляемому столбцу дал имя total */
-Результат выполнения скрипта: https://github.com/igor-muraj/TEST-SQL/blob/main/Screenshots/test%20sql%201.png
+Результат выполнения скрипта:![Image alt](https://github.com/igor-muraj/TEST-SQL/blob/main/Screenshots/test%20sql%201.png) 
 
 SELECT title, author, amount,                
     ROUND((price*0.7), 2) AS new_price
