@@ -1,2 +1,2 @@
 # Примеры Sql запросов.
-![image](https://drive.google.com/file/d/1KNPnZhfPxWJeUp7NVZaRMo2JielfCIUz/view?usp=sharing)
+![image](https://github.com/igor-muraj/TEST-SQL/blob/main/Screenshots/Altertable.png)
