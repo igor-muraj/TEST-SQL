@@ -13,5 +13,5 @@
 # Изменение значений в колонке 'count'
 ![Изменение значений в колонке 'count'](https://github.com/igor-muraj/TEST-SQL/blob/main/Screenshots/where.png)
 
-# Вывод из таблицы значений, где (id > 2)
-![Вывод из таблицы значений, где (id > 2)](https://github.com/igor-muraj/TEST-SQL/blob/main/Screenshots/orderby.png)
+# Вывод из таблицы значения, где (id > 2)
+![Вывод из таблицы значения, где (id > 2)](https://github.com/igor-muraj/TEST-SQL/blob/main/Screenshots/orderby.png)
